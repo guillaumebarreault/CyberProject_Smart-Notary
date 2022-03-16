@@ -1,0 +1,132 @@
+
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700" rel="stylesheet">
+
+    <link rel="stylesheet" href="../static/fonts/acceuil_fonts/icomoon/style.css">
+
+    <link rel="stylesheet" href="../static/css/acceuil css/owl.carousel.min.css">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="../static/css/acceuil css/bootstrap.min.css">
+    
+    <!-- Style -->
+    <link rel="stylesheet" href="../static/css/acceuil css/style.css">
+
+
+    <title>Smart Notary</title>
+  </head>
+  <body>
+
+
+    <div class="site-mobile-menu site-navbar-target">
+        <div class="site-mobile-menu-header">
+          <div class="site-mobile-menu-close mt-3">
+            <span class="icon-close2 js-menu-toggle"></span>
+          </div>
+        </div>
+        <div class="site-mobile-menu-body"></div>
+      </div>
+
+
+
+      <header class="site-navbar site-navbar-target py-4" role="banner">
+
+        <div class="container">
+          <div class="row align-items-center position-relative">
+
+            <div class="col-3 ml-auto text-right order-2">
+              <div class="site-logo">
+                <a href="/" class="font-weight-bold text-white">Se Déconnecter</a>
+              </div>
+            </div>
+
+            <div class="col-9 order-1 text-left mr-auto">
+              
+
+              <span class="d-inline-block d-lg-block"><a href="#" class="text-black site-menu-toggle js-menu-toggle py-5"><span class="icon-menu h3 text-white"></span></a></span>
+
+              
+
+              <nav class="site-navigation text-right ml-auto d-none d-lg-none" role="navigation">
+                <ul class="site-menu main-menu js-clone-nav ml-auto ">
+                  <li class="active"><a href="acceuil" class="nav-link">Home</a></li>
+                  <li><a href="mesdocuments" class="nav-link">Mes Documents</a></li>
+                  <li><a href="certif" class="nav-link">Certifier un nouveau fichier</a></li>
+                  
+                  <li><a href="parametres" class="nav-link">Paramètres</a></li>
+                </ul>
+              </nav>
+            </div>
+
+            
+          </div>
+        </div>
+
+      </header>
+
+    <div class="hero" style="background-image: url('../static/assets/img/smartnotaryfond.png');">
+    
+    <br><br><br><br><br><br><br>
+    
+           <!--row-->
+        <div id="uploader">
+            <div class="row uploadDoc">
+                <div class="col-sm-3">
+              <div class="docErr white">Please upload valid file</div>
+              <!--error-->
+                <div class="fileUpload btn btn-orange">
+                    <img src="https://image.flaticon.com/icons/svg/136/136549.svg" class="icon">
+                    
+                    <span class="upl" id="upload">Upload document
+                    <p >
+          Please upload documents only in 'pdf', 'docx', 'rtf', 'jpg', 'jpeg', 'png' & 'text' format.
+        </p></span>
+                    <input type="file" class="upload up" id="up" onchange="readURL(this);" />
+                </div><!-- btn-orange -->
+                </div><!-- col-3 -->
+                
+            <!--col-8-->
+            <div class="col-sm-1"><a class="btn-check"><i class="fa fa-times"></i></a></div><!-- col-1 -->
+            </div>
+          <!--row-->
+        </div>
+        <!--uploader-->
+    
+            <h4>Quel type de documents souaitez-vous certifiéer ?</h4>
+            <!--Using multiple to select multiple value-->
+            <select name = "subject" multiple size = 6> 
+                <option value = "Diplome">Diplôme</option>
+                <option value = "Diplome2">Choix 2</option>
+                
+            </select>
+            <input type = "submit" name = "submit" value = Submit>
+            <a href="../static/acceuil.html" class="nav-link"></a>
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </div>
+  
+
+
+    <script src="../static/js/acceuil_js/jquery-3.3.1.min.js"></script>
+    <script src="../static/js/acceuil_js/popper.min.js"></script>
+    <script src="../static/js/acceuil_js/bootstrap.min.js"></script>
+    <script src="../static/js/acceuil_js/jquery.sticky.js"></script>
+    <script src="../static/js/acceuil_js/main.js"></script>
+  </body>
+</html>

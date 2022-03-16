@@ -1,0 +1,19 @@
+[package]
+name = "rustwebservice"
+version = "0.3.0"
+authors = ["bastien-b"]
+edition = "2018"
+
+
+
+[dependencies]
+rocket = "0.4.10"
+
+[dependencies.rocket_contrib]
+version = "0.4.10"
+default-features = false
+features = ["tera_templates","serve"]
+
+
+
+
