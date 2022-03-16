@@ -1,0 +1,13 @@
+/home/kali/Documents/projet_cyber/CyberProject_Smart-Notary/Authentification/dev/rust/server_side/target/debug/deps/pkcs8-1485b21db39bce6b.rmeta: /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.7.6/src/lib.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.7.6/src/attributes.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.7.6/src/error.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.7.6/src/private_key_info.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.7.6/src/traits.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.7.6/src/version.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.7.6/src/document.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.7.6/src/document/private_key.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.7.6/src/document/public_key.rs
+
+/home/kali/Documents/projet_cyber/CyberProject_Smart-Notary/Authentification/dev/rust/server_side/target/debug/deps/pkcs8-1485b21db39bce6b.d: /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.7.6/src/lib.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.7.6/src/attributes.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.7.6/src/error.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.7.6/src/private_key_info.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.7.6/src/traits.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.7.6/src/version.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.7.6/src/document.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.7.6/src/document/private_key.rs /home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.7.6/src/document/public_key.rs
+
+/home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.7.6/src/lib.rs:
+/home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.7.6/src/attributes.rs:
+/home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.7.6/src/error.rs:
+/home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.7.6/src/private_key_info.rs:
+/home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.7.6/src/traits.rs:
+/home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.7.6/src/version.rs:
+/home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.7.6/src/document.rs:
+/home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.7.6/src/document/private_key.rs:
+/home/kali/.cargo/registry/src/github.com-1ecc6299db9ec823/pkcs8-0.7.6/src/document/public_key.rs:

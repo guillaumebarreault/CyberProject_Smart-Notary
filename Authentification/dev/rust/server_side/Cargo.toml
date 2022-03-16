@@ -1,0 +1,13 @@
+[package]
+name = "server_side"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rand = "0.8.5"
+rust-argon2 = "0.8"
+aes-gcm = "0.9.4"
+aead = "0.4.3"
+

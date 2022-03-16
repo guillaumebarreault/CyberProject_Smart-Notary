@@ -1,0 +1,1 @@
+/home/kali/Documents/projet_cyber/CyberProject_Smart-Notary/Authentification/dev/rust/server_side/target/debug/server_side: /home/kali/Documents/projet_cyber/CyberProject_Smart-Notary/Authentification/dev/rust/server_side/src/main.rs
