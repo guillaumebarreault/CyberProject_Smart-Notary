@@ -1,0 +1,1 @@
+/home/kali/Documents/projet_cyber/CyberProject_Smart-Notary/Authentification/dev/rust/client_side/target/wasm32-unknown-unknown/release/client_side.wasm: /home/kali/Documents/projet_cyber/CyberProject_Smart-Notary/Authentification/dev/rust/client_side/src/lib.rs
