@@ -9,3 +9,5 @@ Bastien Bongiorno //
 Mathieu Gaude //
 Thomas Meunier 
 
+Docker Hub repository :
+https://hub.docker.com/repository/docker/bastienbng/rustwebservice
