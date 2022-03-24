@@ -23,7 +23,7 @@ git branch [branch_name]  => create branch.
 git checkout [branch_name]  => switching branch.
 
 
-git remote => .
+git remote add [url] => .
 
 git push [remote][branch]  => push it upstream.
          =origin =main/master
